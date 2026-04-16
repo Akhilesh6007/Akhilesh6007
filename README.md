@@ -10,9 +10,9 @@
   I am continuously learning and improving my skills while staying up-to-date with the latest industry trends.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ---
 
