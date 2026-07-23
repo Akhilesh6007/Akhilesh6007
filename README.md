@@ -1,4 +1,4 @@
-👋 Hi, I am Anshul Anand
+👋 Hi, I am Akhilesh Kumar
 
 <p align="center">
   Hello, my name is <b>Akhilesh Kumar</b> and I am currently learning web development with a passion for creating engaging and user-friendly websites and web applications.
@@ -37,8 +37,8 @@
 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnshulAnand&show_icons=true&theme=github_dark&hide_border=true" alt="Anshul's GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshulAnand&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true" alt=" GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 📝 A Quote
