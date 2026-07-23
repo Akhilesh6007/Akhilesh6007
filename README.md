@@ -3,12 +3,12 @@
 <p align="center">
   Hello, my name is <b>Akhilesh Kumar</b> and I am currently learning web development with a passion for creating engaging and user-friendly websites and web applications.
   I have learned web development technologies and frameworks such as HTML, CSS, JavaScript, and ReactJS through my coursework and personal projects.
-  I am also familiar with back-end technologies like Node.js and database management systems such as MongoDB.
-  
+  I am also familiar with back-end technologies like Node.js, database management systems such as MongoDB, and the fundamentals of Machine Learning and Artificial Intelligence.
+  I am constantly seeking to improve my skills and stay up-to-date with the latest web development trends and best practices.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnshulAnand&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 💻 Tech Stack
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </p>
 
 <p align="center">
@@ -38,7 +40,5 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true" alt=" GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
-
-📝 A Quote
